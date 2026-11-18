@@ -1,0 +1,10 @@
+{
+  "name": "noble-spark-liminal-current",
+  "version": "2.0.0",
+  "private": true,
+  "description": "A dependency-free dark promotional site with luminous linear currents, symbolic branding, local HTML destinations, and age-gated payment links.",
+  "license": "MIT",
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}
